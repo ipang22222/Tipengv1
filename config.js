@@ -20,9 +20,9 @@ global.APIKeys = {
 // Other
 global.owner = ['6282136031499']
 global.premium = ['6282136031499']
-global.packname = 'IPANG'
-global.author = 'tipeng ID'
-global.sessionName = 'ipang'
+global.packname = 'IPANG OFC'
+global.author = 'tipeng botz'
+global.sessionName = 'ipang ofc'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
