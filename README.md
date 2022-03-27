@@ -1,5 +1,5 @@
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
+# IPANG-BOTZ
+aku sayang safa
 
 ## NOTE
 This Script is for everyone, not for Sale
